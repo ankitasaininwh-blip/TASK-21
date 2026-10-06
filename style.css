@@ -68,7 +68,7 @@ h2 {
     position: relative;
 
     background-image:
-        url("assets/hero.jpg");
+        url("hero.jpg");
 
     background-size: cover;
     background-position: center;
@@ -339,7 +339,7 @@ h2 {
     position: relative;
 
     background-image:
-        url("assets/testimonial-bg.jpg");
+        url("testimonial-bg.jpg");
 
     background-size: cover;
     background-position: center;
