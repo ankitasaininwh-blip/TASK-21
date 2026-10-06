@@ -1,5 +1,4 @@
 # TASK-21
-# TASK-21
 # OmniFood - Responsive Food Delivery Landing Page
 
 ## Project Overview
